@@ -1,1 +1,1 @@
-# bayes_statististics
+# Bayesian Statistics Specialization
