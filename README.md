@@ -6,7 +6,7 @@ This repository is a Python implementation of the different algorithms and probl
 The main idea is to provide a Python-based implementation in order to enable people who is not familiarized with R to play and learn Bayesian Statistics.
 
 <div  align="center">
-<img src="./assets/posterior.jpg" width="480" />
+<img src="./assets/posterior.png" width="480" />
 </div>
 
 **Note**: Quizes and projects are not shared in this repository, only examples given within the lectures. All the text, equations and explanations were directly taken from the course.
