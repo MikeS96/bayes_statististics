@@ -34,7 +34,10 @@ The following table of content shows the different algorithms implemented in thi
 	- **L11B:** Hierarchical modelling - Linear Regression.
 	- **L11H:** Mixture models.
  - **Course 3, Bayesian Statistics: Mixture Models**
-	- Coming soon :)
+	- **L2:** Mixture models.
+	- **L3:** Simulating from a Mixture model.
+	- **L4A:** Expectation-Maximization - Mixture of two Gaussians.
+	- **L4A:** Expectation-Maximization - Mixture of three Multivariate-Gaussian (Does not converge yet).
 
 ## Installation
 
