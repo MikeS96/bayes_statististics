@@ -37,8 +37,9 @@ The following table of content shows the different algorithms implemented in thi
 	- **L2:** Mixture models.
 	- **L3:** Simulating from a Mixture model.
 	- **L4A:** Expectation-Maximization - Mixture of two Gaussians.
-	- **L4A:** Expectation-Maximization - Mixture of three Multivariate-Gaussian (Does not converge yet).
-	- **L5:** Bayesian Expectation-Maximization - Mixture of two Gaussians.
+	- **L4B:** Expectation-Maximization - Mixture of three Multivariate-Gaussian.
+	- **L5A:** Bayesian Expectation-Maximization - Mixture of two Gaussians.
+	- **L5B:** Bayesian Expectation-Maximization - Mixture of three Multivariate-Gaussian.
 
 ## Installation
 
