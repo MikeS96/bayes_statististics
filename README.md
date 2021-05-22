@@ -45,10 +45,6 @@ The following table of content shows the different algorithms implemented in thi
 	- [L7](/C3/L7_clustering_with_mixture_models.ipynb): Clustering the Iris dataset with EM and Mixture models.
 	- [L8](/C3/L8_classification_with_mixture_models.ipynb): Classifying the Wine dataset with EM and Mixture models.
 
-<div  align="center">
-<img src="./assets/logpost.png" width="480" />
-</div>
-
 ## Installation
 
 To start using this repository,  run the following command and install the needed dependencies.
