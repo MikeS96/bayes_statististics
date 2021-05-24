@@ -15,12 +15,12 @@ The main idea is to provide a Python-based implementation in order to enable peo
 
 The following table of content shows the different algorithms implemented in this repository.
 
- - [Course 1, Bayesian Statistics: From Concept to Data Analysis](https://github.com/MikeS96/bayes_statististics/tree/main/C1)  
+ - [Course 1, Bayesian Statistics: From Concept to Data Analysis](/C1)  
 	- [L4](/C1/L4_plotting_bernoully_likelihood.ipynb): Plotting the Bernoully likelihood.
 	- [L5](/C1/L5_probability_distributions.ipynb): Probability distributions in Python.
 	- [L7](/C1/L7_bernoulli_binomial.ipynb): Students problem with Bernoully and Binomial PMF.
 	- [L12](/C1/L12_linear_regression.ipynb): Frequentist Linear regression.
- - [Course 2, Bayesian Statistics: Techniques and Models](https://github.com/MikeS96/bayes_statististics/tree/main/C2)
+ - [Course 2, Bayesian Statistics: Techniques and Models](/C2)
 	- [L3A](/C2/L3A_markov_chains.ipynb): Markov Chains.
 	- [L3B](/C2/L3B_monte_carlo.ipynb): Monte Carlo.
 	- [L4A](/C2/L4A_metropolis_hastings.ipynb): Metropolis Hastings.
@@ -34,7 +34,7 @@ The following table of content shows the different algorithms implemented in thi
 	- [L11B](/C2/L11B_hierarchical_modelling_linear_regression.ipynb): Hierarchical modelling - Linear Regression.
 	- [L11H](/C2/L11H_mixture_models.ipynb): Mixture models.
 	- [LA](/C2/linear_regression_custom.ipynb): Custom Linear regression.
- - [Course 3, Bayesian Statistics: Mixture Models](https://www.coursera.org/learn/mixture-models)
+ - [Course 3, Bayesian Statistics: Mixture Models](/C3)
 	- [L2](/C3/L2_mixture_gaussians.ipynb): Mixture models.
 	- [L3](/C3/L3_mixture_models_sampling.ipynb): Simulating from a Mixture model.
 	- [L4A](/C3/L4A_expectation_maximization.ipynb): Expectation-Maximization - Mixture of two Gaussians.
@@ -44,6 +44,8 @@ The following table of content shows the different algorithms implemented in thi
 	- [L6](/C3/L6_density_estimation.ipynb): Frequentist and Bayesian density estimation with Mixture of Gaussians.
 	- [L7](/C3/L7_clustering_with_mixture_models.ipynb): Clustering the Iris dataset with EM and Mixture models.
 	- [L8](/C3/L8_classification_with_mixture_models.ipynb): Classifying the Wine dataset with EM and Mixture models.
+	- [L9](/C3/L9_numerical_stability.ipynb): Numerical stability analysis.
+	- [L10](/C3/L10_bayesian_information_criteria.ipynb): Bayesian Information Criteria (BIC) for EM algorith.
 
 ## Installation
 
